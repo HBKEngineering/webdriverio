@@ -94,7 +94,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "saucelabs": "^1.0.1",
     "sinon": "^1.17.2",
-    "snyk": "1.16.0",
+    "snyk": "1.1297.3",
     "wdio-mocha-framework": "^0.3.10"
   },
   "tags": [
